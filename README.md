@@ -1,17 +1,40 @@
-# HONEYHONEY_SB
+# 꿀꿀 - 식단을 부탁해
 
-STAC+ PROJECT 식단을 부탁해
+#### 꿀꿀
 
-# MEMBERS
+꿀꿀은 항상 배고픈 우리를 의미한다.
 
-DGSW 박휘겸
-PLANNER & FRONTEND DEVELOPER
 
-DGSW 김민기
-BACKEND DEVELOPER & ANDROID DEVELOPER
 
-DGSW 정민지
-PLANNER & BACKEND DEVELOPER
+#### 식단을 부탁해
 
-DGSW 정현욱
-UI/UX DESIGNER & iOS DEVELOPER
+식단을 부탁해는 꿀꿀팀이 기획, 개발을 하는 프로젝트이다.
+
+
+
+------
+
+
+
+# 팀원
+
+#### 조장
+
+| 소속   | 이름   | 직무             |
+| :--- | :--- | -------------- |
+| DGSW | 박휘겸  | 기획자, 프론트엔드 개발자 |
+
+
+
+#### 조원
+
+| 소속   | 이름   | 직무                   |
+| ---- | ---- | -------------------- |
+| DGSW | 김민기  | 백엔드 개발자, Android 개발자 |
+| DGSW | 정민지  | 기획자, 백엔드 개발자         |
+| DGSW | 정현욱  | UI/UX 디자이너, iOS 개발자  |
+
+
+
+------
+
